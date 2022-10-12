@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Azancode
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning and working with python
 - 💞️ I’m looking to collaborate on anything I can handle in python
 - 📫 How to reach me DM me
 
